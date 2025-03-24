@@ -1,0 +1,37 @@
+{
+    "id": 684,
+    "name": "LIL DEX APES #684",
+    "description": "LIL DEX APES for BLUM special.\nFree-drop NFT collection and pure fun! Join us at @ngcorp",
+    "image": "https://raw.githubusercontent.com/coinz-maker/apes/refs/heads/main/img/683.png",
+    "social_links": [
+        "https://t.me/NGcorp"
+    ],
+    "external_url": "",
+    "animation_url": "",
+    "attributes": [
+        {
+            "trait_type": "BackGround",
+            "value": "Pastel Ash"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Malachite"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leather RJacket B"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shark"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored P"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Panda"
+        }
+    ]
+}
